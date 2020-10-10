@@ -1,5 +1,5 @@
 import { ParentProvider } from './parent.provider';
-import { OtherProvider } from './other-provider';
+import { OtherProvider } from './other.provider';
 
 // @Injectable()
 export class ChildProvider extends ParentProvider {
