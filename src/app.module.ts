@@ -1,6 +1,6 @@
 import { Module } from '@nestjs/common';
 import { ChildProvider } from './child.provider';
-import { OtherProvider } from './other-provider';
+import { OtherProvider } from './other.provider';
 
 @Module({
   imports: [],
